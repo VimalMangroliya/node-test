@@ -1,0 +1,30 @@
+[
+  {
+    "id": 0,
+    "foodName": "Paneer Masala",
+    "location": "Punjab",
+    "quantity": 250,
+    "price": 300
+  },
+  {
+    "id": 1,
+    "foodName": "Gravy Gatta",
+    "location": "Rajasthan",
+    "quantity": 200,
+    "price": 150
+  },
+  {
+    "id": 2,
+    "foodName": "Malai Pulao",
+    "location": "India",
+    "quantity": 300,
+    "price": 250
+  },
+  {
+    "id": 3,
+    "foodName": "Thali full",
+    "location": "India",
+    "quantity": 500,
+    "price": 350
+  }
+]
